@@ -25,7 +25,7 @@ Training dataset available through [kaggle-fingers](https://www.kaggle.com/datas
 ***
 
 [1] [Kaggle](https://www.kaggle.com/datasets/koryakinp/fingers) <br/>
-[2] [Paper of Stack Hourglass](https://arxiv.org/abs/1603.06937) <br/>
+
 
 ## License
 
